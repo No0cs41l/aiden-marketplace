@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AidenMarket.API/AidenMarket.API.csproj" />
+  <Project Path="AidenMarket.AppServices/AidenMarket.AppServices.csproj" />
+  <Project Path="AidenMarket.Core/AidenMarket.Core.csproj" />
+  <Project Path="AidenMarket.Data/AidenMarket.Data.csproj" />
+</Solution>

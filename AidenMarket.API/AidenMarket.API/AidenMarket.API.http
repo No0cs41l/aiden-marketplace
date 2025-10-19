@@ -1,0 +1,6 @@
+@AidenMarket.API_HostAddress = http://localhost:5153
+
+GET {{AidenMarket.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
